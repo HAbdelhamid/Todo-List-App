@@ -31,6 +31,10 @@ form input, form button {
     background: white;
 }
 
+form input {
+    outline-style: none;
+}
+
 form button {
     color: #20bdff;
     background: white;
